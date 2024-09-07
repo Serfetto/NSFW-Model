@@ -6,3 +6,5 @@ This link shows [google colab](https://colab.research.google.com/drive/1ViMkFhYH
 Data for training you can find in this [repository](https://github.com/Serfetto/NSFW-Data) or in the colab itself
 
 You can find the trained model at this [link](https://drive.google.com/file/d/1Vl5pY9ERFb-L5eF73Qt9Dumkmlrgykyk/view?usp=sharing)
+
+In script ```onlymodel.py``` you can testing model. The image used by the model is taken from your screen, meaning a screenshot of the screen is made and then passed to the model for classification.
