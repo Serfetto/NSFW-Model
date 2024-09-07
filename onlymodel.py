@@ -26,7 +26,7 @@ def connecting_model(path_to_model):
 
 def classify_nsfw():
 
-    connecting_model(os.path.normpath("C:\\Users\\Serfetto\\Downloads\\last (3).pt"))
+    connecting_model(os.path.normpath("./512old.pt"))
 
     while True:
         image = screen_monitor()
